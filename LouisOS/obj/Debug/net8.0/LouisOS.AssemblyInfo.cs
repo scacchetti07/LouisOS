@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LouisOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+495234876bcd0a362c694288196e561cc61c86b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("LouisOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LouisOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
